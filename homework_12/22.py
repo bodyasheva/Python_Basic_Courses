@@ -35,3 +35,5 @@ class Purchase:
 
     def get_total(self):
         pass
+
+    blabka = 23
